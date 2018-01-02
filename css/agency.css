@@ -187,6 +187,11 @@ header.masthead {
 		  margin-top: -8px;
 	  }
 
+	  .navbar-shrink .navbar-brand>img {
+		  margin-top: -16px;
+		  margin-bottom: -8px;
+	  }
+
 .service-heading {
   margin: 15px 0;
   text-transform: none; }
