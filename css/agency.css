@@ -181,6 +181,12 @@ header.masthead {
       margin-bottom: 50px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; } }
 
+	  .navbar-brand>img {
+		  width: 64px;
+		  height: 50px;
+		  margin-top: -8px;
+	  }
+
 .service-heading {
   margin: 15px 0;
   text-transform: none; }
